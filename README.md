@@ -132,14 +132,14 @@ pip install yt-dlp
 
 1.  В `main.py` установите:
 
-
+```
     USE_FILE_BY_DEFAULT = True
-
+```
 2.  Добавьте ссылки в файл:
 
-
+```
     links.txt
-
+```
 3.  Запустите программу:
 
 ``` bash
@@ -150,9 +150,9 @@ python3 main.py
 
 1.  Установите:
 
-
+```
     USE_FILE_BY_DEFAULT = False
-
+```
 2.  Запустите программу:
 
 ``` bash
